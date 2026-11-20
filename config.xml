@@ -12,9 +12,9 @@
 	<!-- Please leave this as foundation if your custom skin derives from it -->
 	<original_name><![CDATA[foundation]]></original_name>
 	<display><![CDATA[Foundation]]></display>
-	<description><![CDATA[CubeCart's default bare-bones skin, built as a blank canvas for your own design.]]></description>
-	<!-- This skin is versioned within the master package if you use this as a base for a custom skin please replace n/a with a version number for each release in the marketplace. -->
-	<version>n/a</version>
+	<description><![CDATA[CubeCart's original responsive skin, built on the Foundation framework and kept plain as a starting point for your own design.]]></description>
+	<!-- Versioned in its own repository (github.com/cubecart/skin-foundation) since it left the core package in CubeCart 6.9.0. A custom skin based on it needs its own uid, name and version. -->
+	<version>6.8.6</version>
 	<minVersion>6.0.0</minVersion>
 	<maxVersion>6.*.*</maxVersion>
 	<creator>CubeCart</creator>
