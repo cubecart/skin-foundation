@@ -4,6 +4,8 @@ CubeCart v6's original responsive skin, built on the [Foundation 5](https://get.
 
 Foundation shipped inside the CubeCart package up to 6.8.x. From CubeCart 6.9.0 the package contains only [Atrium](https://github.com/cubecart/v6/tree/v6.x-master/skins/atrium), and Foundation is maintained here.
 
+Foundation has its own version numbers from here on, starting at 1.0.0, which is the Foundation that shipped with CubeCart 6.8.6. Copies from earlier CubeCart packages say `n/a` in `config.xml`. Which CubeCart versions it works with is set by `minVersion` and `maxVersion` in `config.xml`, not by its version number.
+
 ## Installing
 
 Copy this folder to `skins/foundation` in your store, then choose Foundation under Store Settings, Layout.

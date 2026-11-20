@@ -14,7 +14,7 @@
 	<display><![CDATA[Foundation]]></display>
 	<description><![CDATA[CubeCart's original responsive skin, built on the Foundation framework and kept plain as a starting point for your own design.]]></description>
 	<!-- Versioned in its own repository (github.com/cubecart/skin-foundation) since it left the core package in CubeCart 6.9.0. A custom skin based on it needs its own uid, name and version. -->
-	<version>6.8.6</version>
+	<version>1.0.0</version>
 	<minVersion>6.0.0</minVersion>
 	<maxVersion>6.*.*</maxVersion>
 	<creator>CubeCart</creator>
